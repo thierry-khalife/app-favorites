@@ -1,5 +1,5 @@
 body.style{
-	background-image: url("img/amazon.jpg");
+	background-color: black;
 }
 header{
 	text-align: center;
@@ -7,7 +7,7 @@ header{
 	height: 25px;
 	margin-left: 20%;
 	margin-right: 2%;
-	background-color: white;
+	background-color: #FF9900;
 	border-radius: 10px;
 
 }
@@ -47,7 +47,7 @@ section.description{
 .description h1{
 	color: white;
     font-size: 40px;
-    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+    font-family: Rockwell Extra Bold,Rockwell Bold,monospace;
 
 }
 .description img{
@@ -71,34 +71,34 @@ section.description{
 .description p{
 	color: white;
     font-size: 20px;
-     font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+    font-family: Rockwell Extra Bold,Rockwell Bold,monospace;
 }
 .description a:link{ 
     text-decoration: none;
-	color: #282828;
+	color: white;
 }
 .description a:active {
-	color: #282828;
+	color: white;
 }
 .description a:visited{
-	color: #282828;
+	color: white;
 
 }
 .description a:hover{
-    color: white;
+    color: #FF9900;
 }
 ul li{ 
 	display:inline;
 }
 a:link{ 
     text-decoration: none;
-	color: #282828;
+	color: white;
 }
 a:active {
-	color: #282828;
+	color: white;
 }
 a:visited{
-	color: #282828;
+	color: white;
 }
 menu ul {
 	 margin:0;
@@ -112,7 +112,7 @@ menu li {
  	padding: 0px;
  }
 menu li a {
-     font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+    font-family: Rockwell Extra Bold,Rockwell Bold,monospace;
     display:block;
     width:100px;
     text-decoration:none;
@@ -121,8 +121,8 @@ menu li a {
  
  }
 menu li a:hover {
-	
-	 font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+	font-family: Rockwell Extra Bold,Rockwell Bold,monospace;
+	color: orange;
  }
 menu ul li ul {
    display:none;
