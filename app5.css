@@ -1,5 +1,6 @@
 body.style{
 	background-color: black;
+	margin: 0px;
 }
 header{
 	text-align: center;
@@ -136,3 +137,18 @@ menu li:hover ul li {
  menu li ul {
    position:absolute;
  }
+  footer{
+ 	 background: rgba(255, 153, 0, 0.9);
+ 	 display: flex;
+     flex-direction: row;
+     justify-content: space-around;
+     align-items: center;
+     padding: 5px;
+}
+.footer1 img{
+	width: 300px;
+	height: 50px;
+}
+.footer2{
+	color: white;
+}
